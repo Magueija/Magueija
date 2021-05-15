@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Tomás (Magueija) Silva</h1>
+<h1 align="center">Hello World :wave:, I'm Tomás (Magueija) Silva</h1>
 <h4 align="center">A passionate developer from Portugal</h4>
 
 <p align="center"> I'm a Full-Stack Web Developer and I'm trying to draw my path and discover new things. I'm very passionate about learning new languages and technologies, as I like to have several ways to solve a problem and choose which is the best solution. </p>
@@ -13,15 +13,15 @@
       <img alt="Profile Views" height="18px" src="https://komarev.com/ghpvc/?username=magueija&label=Profile%20views&color=57bcda&style=flat-square" />
     </h3>
 
-  - 🔭 I’m currently working on something amazing.
-  - 🎓 I'm studying by myself and at [42](https://www.42lisboa.com/).
-  - 🌱 I’m currently learning Python, C, Raycasting and Raytracing.
-  - 📚 I want to learn Data Science, AI, ML and almost everything. 🤣
-  - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-  - 👯 I’m looking to collaborate on open source.
-  - ⚡ Fun fact: Magueija is a village in Lamego in the north of Portugal,
+  - :telescope: I’m currently working on something amazing.
+  - :mortar_board: I'm studying by myself and at [42](https://www.42lisboa.com/).
+  - :seedling: I’m currently learning Python, C, Raycasting and Raytracing.
+  - :books: I want to learn Data Science, AI, ML and almost everything. :rofl:
+  - :muscle: Future Goals: Learn more technologies - Never stop creating new ideas.
+  - :dancers: I’m looking to collaborate on open source.
+  - :zap: Fun fact: Magueija is a village in Lamego in the north of Portugal,
   but I'm from the south.
-  <!-- - 🌐 See my [personal website][portfolio] for more info. -->
+  <!-- - :globe_with_meridians: See my [personal website][portfolio] for more info. -->
   </div>
 </div>
 
@@ -29,7 +29,7 @@
 
 ---
 
-### You can find in me in the web 🌍
+### You can find in me in the web :earth_africa:
 
 <!-- [<img alt="Magueija | Portfolio" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/globe_black.svg?raw=true" />][portfolio] &nbsp; -->
 [<img alt="Magueija | Gmail" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/email.svg?raw=true" />][mail] &nbsp;
@@ -65,7 +65,7 @@
   <img alt="C" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/c.svg?raw=true" />
   <img alt="C#" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/c_sharp.svg?raw=true" />
   <img alt="Python" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/python.svg?raw=true" />
-  <img alt="PHP" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/php.svg?raw=true" />
+  <!-- <img alt="PHP" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/php.svg?raw=true" /> -->
   <img alt="ASP.NET" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/asp_net.svg?raw=true" />
   <img alt="HTML5" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/html5.svg?raw=true" />
   <img alt="CSS3" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/css3.svg?raw=true" />
@@ -73,8 +73,8 @@
   <img alt="JavaScript" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/javascript.svg?raw=true" />
   <img alt="SQL Server" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/sql_server.svg?raw=true" />
   <img alt="MySQL" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/mysql.svg?raw=true" />
-  <img alt="MariaDB" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/mariadb.svg?raw=true" />
-  <img alt="Docker" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/docker.svg?raw=true" />
+  <!-- <img alt="MariaDB" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/mariadb.svg?raw=true" /> -->
+  <!-- <img alt="Docker" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/docker.svg?raw=true" /> -->
 </p>
 
 ### Tools:
@@ -100,13 +100,13 @@
 
 <!-- <img alt="Spotify GIF" align="right" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />  -->
 
-<!-- ### Spotify Playing 🎧  -->
+<!-- ### Spotify Playing :headphones:  -->
 <!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/2ne2nzawmtzzrad8t51miu7cd)  -->
 
 <!-- --- -->
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>:zap: Github Stats</b></summary>
   <br />
   <p align="center">
     <img alt="Stats" height="185em" src="https://github-readme-stats.vercel.app/api?username=magueija&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=react" />
@@ -117,7 +117,7 @@
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b>:comet: Github Streaks</b></summary>
   <br />
   <p align="center">
     <img alt="Magueija | Streaks" height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=magueija&count_private=true&hide_border=true&theme=react" />
