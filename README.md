@@ -29,7 +29,7 @@
 
 ---
 
-### You can find in me in the web :earth_africa:
+### You can find me in the web :earth_africa:
 
 <!-- [<img alt="Magueija | Portfolio" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/globe_black.svg?raw=true" />][portfolio] &nbsp; -->
 [<img alt="Magueija | Gmail" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/email.svg?raw=true" />][mail] &nbsp;
