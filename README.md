@@ -15,7 +15,7 @@
 
   - :telescope: I’m currently working on something amazing.
   - :mortar_board: I'm studying by myself and at [42](https://www.42lisboa.com/).
-  - :seedling: I’m currently learning Python, C, Raycasting and Raytracing.
+  - :seedling: I’m currently learning Linux, Git and Raycasting.
   - :books: I want to learn Data Science, AI, ML and almost everything. :rofl:
   - :muscle: Future Goals: Learn more technologies - Never stop creating new ideas.
   - :dancers: I’m looking to collaborate on open source.
@@ -79,9 +79,9 @@
 
 ### Tools:
 <p align="center">
+  <img alt="VIM" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/vim.svg?raw=true" />
   <img alt="VS Code" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/vs_code.svg?raw=true" />
   <img alt="VS" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/vs.svg?raw=true" />
-  <img alt="VIM" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/vim.svg?raw=true" />
   <img alt="GitHub" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/github.svg?raw=true" />
   <img alt="Slack" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/slack.svg?raw=true" />
   <img alt="Photoshop" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/photoshop.svg?raw=true" />
