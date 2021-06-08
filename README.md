@@ -15,7 +15,7 @@
 
   - :telescope: I’m currently working on something amazing.
   - :mortar_board: I'm studying by myself and at [42](https://www.42lisboa.com/).
-  - :seedling: I’m currently learning Linux, Git and Raycasting.
+  - :seedling: I’m currently learning Linux, Advanced Git and Raycasting.
   - :books: I want to learn Data Science, AI, ML and almost everything. :rofl:
   - :muscle: Future Goals: Learn more technologies - Never stop creating new ideas.
   - :dancers: I’m looking to collaborate on open source.
