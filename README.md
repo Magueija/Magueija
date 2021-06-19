@@ -123,7 +123,16 @@
     <img alt="Magueija | Streaks" height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=magueija&count_private=true&hide_border=true&theme=react" />
   </p>
 </details>
+
 <!--
+<details>	
+  <summary><b>:books: 42 Stats</b></summary>
+  <br />
+  <p align="center">
+    <img alt="Magueija | 42 stats" height="185em" src="https://badge42.herokuapp.com/api/stats/tosilva" />
+  </p>
+</details>
+
 <br />
 <p align="center">
   <a href="https://www.buymeacoffee.com/Magueija"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Magueija&button_colour=212121&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00"></a>
