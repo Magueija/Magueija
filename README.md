@@ -10,12 +10,12 @@
   <div>
     <h3>
       Glad to see you here! &nbsp
-      <img alt="Profile Views" height="18px" src="https://komarev.com/ghpvc/?username=magueija&label=Profile%20views&color=57bcda&style=flat-square" />
+      <img alt="Profile Views" height="18px" src="https://komarev.com/ghpvc/?username=magueija&label=Profile%20views&color=101010&style=flat-square" />
     </h3>
 
   - :telescope: I’m currently working on something amazing.
   - :mortar_board: I'm studying by myself and at [42](https://www.42lisboa.com/).
-  - :seedling: I’m currently learning Linux, Advanced Git and Raycasting.
+  - :seedling: I’m currently learning Linux, Java and Clean Code.
   - :books: I want to learn Data Science, AI, ML and almost everything. :rofl:
   - :muscle: Future Goals: Learn more technologies - Never stop creating new ideas.
   - :dancers: I’m looking to collaborate on open source.
@@ -31,18 +31,18 @@
 
 ### You can find me in the web :earth_africa:
 
-<!-- [<img alt="Magueija | Portfolio" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/globe_black.svg?raw=true" />][portfolio] &nbsp; -->
-[<img alt="Magueija | Gmail" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/email.svg?raw=true" />][mail] &nbsp;
-[<img alt="Magueija | LinkedIn" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/linkedin.svg?raw=true" />][linkedin] &nbsp;
-<!-- [<img alt="Magueija | Instagram" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/instagram.svg?raw=true" />][instagram] &nbsp; -->
-<!-- [<img alt="Magueija | StackOverflow" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/stackoverflow.svg?raw=true" />][stackoverflow] &nbsp; -->
-<!-- [<img alt="Magueija | Medium" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/medium.svg?raw=true" />][medium] &nbsp; -->
-<!-- [<img alt="Magueija | Dev" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/dev.svg?raw=true" />][dev] &nbsp; -->
-<!-- [<img alt="Magueija | CodeSandbox" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/codesandbox.svg?raw=true" />][codesandbox] &nbsp; -->
-<!-- [<img alt="Magueija | HackerRank" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/hackerrank.svg?raw=true" />][hackerrank] &nbsp; -->
-<!-- [<img alt="Magueija | HackerEarth" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/hackerearth.svg?raw=true" />][hackerearth] &nbsp; -->
-<!-- [<img alt="Magueija | TopCoder" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/topcoder.svg?raw=true" />][topcoder] &nbsp; -->
-<!-- [<img alt="Magueija | CodinGame" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/media/codingame.svg?raw=true" />][codingame] -->
+<!-- [<img alt="Magueija | Portfolio" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/globe_black.svg?raw=true" />][portfolio] &nbsp; -->
+[<img alt="Magueija | Gmail" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/gmail.svg?raw=true" />][mail] &nbsp;
+[<img alt="Magueija | LinkedIn" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/linkedin.svg?raw=true" />][linkedin] &nbsp;
+<!-- [<img alt="Magueija | Instagram" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/instagram.svg?raw=true" />][instagram] &nbsp; -->
+<!-- [<img alt="Magueija | StackOverflow" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/stackoverflow.svg?raw=true" />][stackoverflow] &nbsp; -->
+<!-- [<img alt="Magueija | Medium" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/medium.svg?raw=true" />][medium] &nbsp; -->
+<!-- [<img alt="Magueija | Dev" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/dev.svg?raw=true" />][dev] &nbsp; -->
+<!-- [<img alt="Magueija | CodeSandbox" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/codesandbox.svg?raw=true" />][codesandbox] &nbsp; -->
+<!-- [<img alt="Magueija | HackerRank" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/hackerrank.svg?raw=true" />][hackerrank] &nbsp; -->
+<!-- [<img alt="Magueija | HackerEarth" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/hackerearth.svg?raw=true" />][hackerearth] &nbsp; -->
+<!-- [<img alt="Magueija | TopCoder" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/topcoder.svg?raw=true" />][topcoder] &nbsp; -->
+<!-- [<img alt="Magueija | CodinGame" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/codingame.svg?raw=true" />][codingame] -->
 
 [portfolio]: https://magueija.github.io/Magueija/
 [mail]:mailto:tomas.magueija.silva@gmail.com
@@ -61,39 +61,37 @@
 
 ### Languages and Frameworks:
 <p align="center">
-  <img alt="Bash" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/bash.svg?raw=true" />
-  <img alt="C" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/c.svg?raw=true" />
-  <img alt="C#" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/c_sharp.svg?raw=true" />
-  <img alt="Python" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/python.svg?raw=true" />
-  <!-- <img alt="PHP" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/php.svg?raw=true" /> -->
-  <img alt="ASP.NET" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/asp_net.svg?raw=true" />
-  <img alt="HTML5" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/html5.svg?raw=true" />
-  <img alt="CSS3" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/css3.svg?raw=true" />
-  <img alt="Bootstrap" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/bootstrap.svg?raw=true" />
-  <img alt="JavaScript" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/javascript.svg?raw=true" />
-  <img alt="SQL Server" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/sql_server.svg?raw=true" />
-  <img alt="MySQL" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/mysql.svg?raw=true" />
-  <!-- <img alt="MariaDB" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/mariadb.svg?raw=true" /> -->
-  <!-- <img alt="Docker" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/docker.svg?raw=true" /> -->
-</p>
-
-### Tools:
-<p align="center">
-  <img alt="VIM" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/vim.svg?raw=true" />
-  <img alt="VS Code" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/vs_code.svg?raw=true" />
-  <img alt="VS" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/vs.svg?raw=true" />
-  <img alt="GitHub" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/github.svg?raw=true" />
-  <img alt="Slack" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/slack.svg?raw=true" />
-  <img alt="Photoshop" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/photoshop.svg?raw=true" />
-  <img alt="ClickUp" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/clickup.svg?raw=true" />
+  <img alt="Bash" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/bash.svg?raw=true" />
+  <img alt="C" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/c.svg?raw=true" />
+  <img alt="C#" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/c%23.svg?raw=true" />
+  <img alt="C++" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/c%2B%2B.svg?raw=true" />
+  <img alt="Java" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/java_2.svg?raw=true" />
+  <img alt="Python" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/python.svg?raw=true" />
+  <!-- <img alt="PHP" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/php.svg?raw=true" /> -->
+  <img alt="JavaScript" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/javascript.svg?raw=true" />
+  <img alt=".NET" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/dot_net.svg?raw=true" />
+  <img alt="HTML5" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/html5.svg?raw=true" />
+  <img alt="CSS3" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/css3.svg?raw=true" />
+  <img alt="Bootstrap" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/bootstrap.svg?raw=true" />
+  <img alt="SQL Server" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/sql_server.svg?raw=true" />
+  <img alt="MySQL" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/mysql.svg?raw=true" />
 </p>
 
 ### Others:
 <p align="center">
-  <img alt="Git" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/git.svg?raw=true" />
-  <img alt="Windows" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/windows.svg?raw=true" />
-  <img alt="Linux" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/linux.svg?raw=true" />
-  <img alt="MAC" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/languages_tools/mac.svg?raw=true" />
+  <img alt="Git" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/others/full/git.svg?raw=true" />
+  <img alt="Linux" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/others/full/debian.svg?raw=true" />
+  <img alt="Windows" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/others/full/windows.svg?raw=true" />
+  <img alt="MAC" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/others/full/macos_2.svg?raw=true" />
+</p>
+
+### Tools:
+<p align="center">
+  <img alt="VIM" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/tools/full/vim.svg?raw=true" />
+  <img alt="VS Code" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/tools/full/vs_code.svg?raw=true" />
+  <img alt="VS" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/tools/full/vs.svg?raw=true" />
+  <img alt="GitHub" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/tools/full/github.svg?raw=true" />
+  <img alt="ClickUp" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/tools/full/clickup.svg?raw=true" />
 </p>
 
 ---
