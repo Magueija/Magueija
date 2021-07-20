@@ -82,7 +82,7 @@
   <img alt="Git" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/others/full/git.svg?raw=true" />
   <img alt="Linux" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/others/full/debian.svg?raw=true" />
   <img alt="Windows" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/others/full/windows.svg?raw=true" />
-  <img alt="MAC" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/others/full/macos.svg?raw=true" />
+  <img alt="MAC" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/others/full/macos_2.svg?raw=true" />
 </p>
 
 ### Tools:
