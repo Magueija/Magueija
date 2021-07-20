@@ -65,8 +65,8 @@
   <img alt="C" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/c.svg?raw=true" />
   <img alt="C#" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/c%23.svg?raw=true" />
   <img alt="C++" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/c%2B%2B.svg?raw=true" />
+  <img alt="Java" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/java_2.svg?raw=true" />
   <img alt="Python" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/python.svg?raw=true" />
-  <img alt="Java" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/java.svg?raw=true" />
   <!-- <img alt="PHP" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/php.svg?raw=true" /> -->
   <img alt="JavaScript" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/javascript.svg?raw=true" />
   <img alt=".NET" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/badges/languages%20and%20frameworks/full/dot_net.svg?raw=true" />
