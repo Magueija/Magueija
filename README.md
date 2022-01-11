@@ -106,6 +106,7 @@
 <!-- <details>	
   <summary><b>:zap: Github Stats</b></summary>
   <br /> -->
+  #### :zap: Github Stats
   <p align="center">
     <img alt="Stats" height="185em" src="https://github-readme-stats.vercel.app/api?username=magueija&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=react" />
     &nbsp
