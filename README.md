@@ -44,18 +44,19 @@
 <!-- [<img alt="Magueija | TopCoder" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/topcoder.svg?raw=true" />][topcoder] &nbsp; -->
 <!-- [<img alt="Magueija | CodinGame" height="30em" src="https://github.com/Magueija/Magueija/blob/main/images/social_media/codingame.svg?raw=true" />][codingame] -->
 
-[portfolio]: https://magueija.github.io/Magueija/
-[mail]:mailto:tomas.magueija.silva@gmail.com
-[linkedin]: https://www.linkedin.com/in/tomas-magueija-silva
-[instagram]: https://www.instagram.com/tomasmsilva_
-[stackoverflow]: https://stackoverflow.com/users/
-[medium]: https://medium.com/
-[dev]: https://dev.to/
-[codesandbox]: https://codesandbox.com/
-[hackerrank]: https://www.hackerrank.com/
-[hackerearth]: https://www.hackerearth.com/
-[topcoder]: https://www.topcoder.com/members/
-[codingame]: https://www.codingame.com/profile/505533fc00cc44139c9e00d05cb4a5ed4476134
+[portfolio]:https://magueija.github.io/Magueija/ "Portfolio"
+[mail]:mailto:tomas.magueija.silva@gmail.com "Email"
+[linkedin]:https://www.linkedin.com/in/magueija "LinkedIn"
+[instagram]:https://www.instagram.com/tomasmsilva_  "Instagram"
+[stackoverflow]:https://stackoverflow.com/story/magueija "StackOverflow"
+[medium]:https://medium.com/ "Medium"
+[dev]:https://dev.to/ "Dev"
+[codesandbox]:https://codesandbox.com/ "CodeSandbox"
+[hackerrank]:https://www.hackerrank.com/ "HackerRank"
+[hackerearth]:https://www.hackerearth.com/ "HackerEarth"
+[topcoder]:https://www.topcoder.com/members/ "TopCoder"
+[codingame]:https://www.codingame.com/profile/505533fc00cc44139c9e00d05cb4a5ed4476134 "CodinGame"
+
 
 ---
 
